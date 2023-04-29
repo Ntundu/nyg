@@ -1,0 +1,144 @@
+
+
+.body{
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+   
+}
+.header{
+width: 100%;
+height: 100%;
+margin: -10px;
+padding: 0 70px;
+display: flex;
+align-content: center;
+justify-content: space-between;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color:darkred;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 60px;
+    list-style-type: none;
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+.square{
+    background-color:darkred;
+    
+    width:250px;
+    height:250px;
+    
+    
+    float:left;
+    padding: 50px;
+
+}
+.belowsq{
+    -webkit-text-size-adjust: 100%;
+    pointer-events: auto;
+    -webkit-font-smoothing: antialiased;
+    outline: 0;
+    border: none !important;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    appearance: none;
+    line-height: normal;
+    padding: 21px 34px;
+    font-family: sofia-pro;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: none;
+    letter-spacing: 0em;
+    color: #fff;
+    background-color: #2a3a5a;
+    transition: .1s opacity linear;
+    border-radius: 3px;
+    opacity: .8;
+    
+
+
+}
+.textsq{
+    -webkit-text-size-adjust: 100%;
+    pointer-events: auto;
+    -webkit-font-smoothing: antialiased;
+    margin: .67em 0;
+    text-rendering: optimizeLegibility;
+    font-family: sofia-pro;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 54px;
+    letter-spacing: 0em;
+    line-height: 1.1em;
+    text-transform: none;
+    hyphens: manual !important;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 25px;
+    white-space: pre-wrap;
+}
+.textinsq{
+    -webkit-text-size-adjust: 100%;
+    pointer-events: auto;
+    font-family: sofia-pro;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: .02em;
+    line-height: 1.7em;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    color: #000102;
+    hyphens: manual !important;
+    word-wrap: break-word;
+    margin-bottom: 0;
+    white-space: pre-wrap;
+
+
+}
+
+.intro{
+   
+    background-color:darkred;
+    margin: 0px;
+    height: 500px;
+    margin: -10px;
+    margin-top: 0px;
+    margin-bottom: -20px;
+    box-shadow:0 0 10px 0 rgb(1, 1, 24);
+    
+}
+.main{
+
+    background-color: #011131;
+    
+    height: 500px;
+    margin: -10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-shadow:0 0 10px 0 rgb(1, 1, 24);
+
+
+}
+.main img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
