@@ -1,5 +1,6 @@
 # nyg
-a simple webpage for my project
+simple webpage
 I want to create a podcast website as a project.
-I'm new to web dev please help
+new to web dev
+
 
