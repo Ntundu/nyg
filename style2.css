@@ -143,8 +143,9 @@ background-color:darkred;
 
 }
 .whynyg{
-    background: white;
-    height:100px;
-    width:100px;
-    border-radius:50%;
+  background: #fff; 
+  height:100px;
+  width:100px;
+  border-radius: 50%;
+  
 }
